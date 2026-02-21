@@ -50,18 +50,10 @@
   <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/C_to_Wasm"><img src="https://github.com/MAXxDEVIL/asset/blob/main/C%2B%2B_icon.png" height="60" alt="cplusplus logo"/></a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Java"><img src="https://github.com/MAXxDEVIL/asset/blob/main/java_icon.png" height="60" alt="java logo"/></a>
-  <img width="12" />
+  
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python"><img src="https://github.com/MAXxDEVIL/asset/blob/main/python_icon.png" height="60" alt="python logo"/></a>
   <img width="12" />
-  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://github.com/MAXxDEVIL/asset/blob/main/vs-code_ico.png" height="60" alt="vscode logo"/></a>
-  <img width="12" />
-  <a href=""><img src="https://github.com/MAXxDEVIL/asset/blob/main/andirodStudio_icon.png" height="60" alt="androidstudio logo"/></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Tools_and_setup/Using_GitHub_pages"><img src="https://github.com/MAXxDEVIL/asset/blob/main/git-hub_icon.png" height="60" alt="github logo"/></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/search?q=ARDUINO"><img src="https://github.com/MAXxDEVIL/asset/blob/main/Arduino_Icon.png" height="60" alt="arduino logo"/></a>
-  
+ 
 </div>
 <BR>
 
