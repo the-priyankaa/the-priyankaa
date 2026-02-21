@@ -6,7 +6,7 @@
 </p>
 
 
-<img src="https://github.com/MAXxDEVIL/asset/blob/main/Like_%20spacetalin.gif" width = "100%" height = "200px"> <!-- Cover img-->
+<img src="https://github.com/the-priyankaa/asset/blob/main/banner.jpeg" width = "100%" height = "200px"> <!-- Cover img-->
 
 <h3 align="center" style="color:rgb(171,61,255)">A passionate frontend developer from India</h3>
 
