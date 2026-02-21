@@ -66,36 +66,7 @@
 <BR>
 
 
-<table align="center">
-  <tr>
-    <td align="center"><a href = "https://github.com/MAXxDEVIL/asset/tree/main/Achievements/2025"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%201.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%202.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%203.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%204.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%205.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%206.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%207.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%208.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%209.png" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%2010.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%2011.PNG" height="100"/></td>
-    <td align="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/cat%2012.PNG" height="100"/></td>
-  </tr>
-  <tr>
-    <td align="center">2025</td>
-    <td align="center">Cat 2</td>
-    <td align="center">Cat 3</td>
-    <td align="center">Cat 4</td>
-    <td align="center">Cat 5</td>
-    <td align="center">Cat 6</td>
-    <td align="center">Cat 7</td>
-    <td align="center">Cat 8</td>
-    <td align="center">Cat 9</td>
-    <td align="center">Cat 10</td>
-    <td align="center">Cat 11</td>
-    <td align="center">Cat 12</td>
-  </tr>
-</table>
+
 
 
 <div align="center">
