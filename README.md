@@ -106,7 +106,7 @@
 
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
 <p align="center">
-  <img src="https://github.com/MAXxDEVIL/asset/blob/main/8cf60608f95bfae20a9e78884e1a33cb.gif"/>
+  <img src="https://github.com/the-priyankaa/asset/blob/main/cover.png"/>
 </p>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
