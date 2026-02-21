@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-<h3 align="center">For your hand hald:</h3>
+<h3 align="center">For your handheld:</h3>
 
 <div hight ="110px" width = "110%" display = "flex" align ="center"><img src="https://github.com/the-priyankaa/asset/blob/main/qr.png" height ="200px" width = "200px" align ="center"></div>    <!-- QR--> 
 <p align="center">
