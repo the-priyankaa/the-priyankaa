@@ -19,10 +19,10 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle" style="font-size:16px;">
-      🔭 I’m currently working on <b>Nothing !!!</b><br>
-      🌱 I’m currently learning <b>JAVA</b><br>
-      💬 Ask me about <b>C, C++, Java, HTML, CSS, Java Script</b><br>
-      📫 How to reach me : <b>gamil : paramitagopalpaul06@gamil.com</b>
+      </b>
+      I’m currently learning <b>AI ML</b><br>
+      Ask me about <b>C, C++, HTML, CSS, JS, Python</b><br>
+      How to reach me : <b>gamil : priyanka.biswas3690@gmail.com</b>
     </td>
     <td align="center" valign="middle">
       <img src="https://github.com/MAXxDEVIL/asset/blob/main/p_b.jpeg" height="100"> <!-- Tabile Img-->
