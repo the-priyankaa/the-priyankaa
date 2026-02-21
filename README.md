@@ -13,8 +13,8 @@
 <p align="center">
   <img src="https://count.getloli.com/@MAXxDEVIL?theme=booru-lisu" />        
 </p>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
+
+
 
 <table align="center">
   <tr>
@@ -32,7 +32,7 @@
 
 <h3 align="center">For your hand hald:</h3>
 
-<div hight ="110px" width = "110%" display = "flex" align ="center"><img src="https://github.com/MAXxDEVIL/asset/blob/main/QR_.gif" height ="200px" width = "200px" align ="center"></div>    <!-- QR--> 
+<div hight ="110px" width = "110%" display = "flex" align ="center"><img src="https://github.com/the-priyankaa/asset/blob/main/qr.png" height ="200px" width = "200px" align ="center"></div>    <!-- QR--> 
 <p align="center">
 <!-- Add your social icons/links here -->
 </p>
@@ -75,10 +75,7 @@
 </div>
 
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
 <p align="center">
   <img src="https://github.com/the-priyankaa/asset/blob/main/cover.png"/>
 </p>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width = "100%"/></a>  <!-- line --> 
 
