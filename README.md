@@ -100,7 +100,7 @@
 
 <div align="center">
   <a href = "https://www.linkedin.com/in/mrcat000"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"/></a>     <!--Linkdin_icon-->
-  <a href = "https://x.com/_Mr_Cat___"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"/></a>    <!-- Discord_icon -->
+  <a href = "https://x.com/the_priyyanka"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"/></a>    <!-- Discord_icon -->
 </div>
 
 
