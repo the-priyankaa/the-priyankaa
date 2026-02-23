@@ -46,7 +46,7 @@
   <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/the-priyankaa/asset/blob/main/js.png" height="60" alt="javascript logo"/></a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/C_to_Wasm"><img src="https://github.com/MAXxDEVIL/asset/blob/main/C_icon.png" height="60" alt="c logo"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/C_to_Wasm"><img src="https://github.com/the-priyankaa/asset/blob/main/C.png" height="60" alt="c logo"/></a>
   <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/C_to_Wasm"><img src="https://github.com/the-priyankaa/asset/blob/main/c%2B%2B.png" height="60" alt="cplusplus logo"/></a>
   <img width="12" />
