@@ -22,7 +22,7 @@
       </b>
       I’m currently learning <b>AI ML</b><br>
       Ask me about <b>C, C++, HTML, CSS, JS, Python</b><br>
-      How to reach me : <b>gamil : priyanka.biswas3690@gmail.com</b>
+      How to reach me : <b>priyanka.biswas3690@gmail.com</b>
     </td>
     <td align="center" valign="middle">
       <img src="https://github.com/the-priyankaa/asset/blob/main/pro.jpeg" height="100"> <!-- Tabile Img-->
