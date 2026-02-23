@@ -40,17 +40,17 @@
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">                                                                                                                                                 <!-- icoms -->
   
-  <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/MAXxDEVIL/asset/blob/main/HTML_Icon.png" height="60" alt="html5 logo"/></a>
+  <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/the-priyankaa/asset/blob/main/html.png" height="60" alt="html5 logo"/></a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/MAXxDEVIL/asset/blob/main/css_icon.png" height="57" alt="css3 logo"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/the-priyankaa/asset/blob/main/css.png" height="57" alt="css3 logo"/></a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/MAXxDEVIL/asset/blob/main/js_icon.png" height="60" alt="javascript logo"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/the-priyankaa/asset/blob/main/js.png" height="60" alt="javascript logo"/></a>
   <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/C_to_Wasm"><img src="https://github.com/MAXxDEVIL/asset/blob/main/C_icon.png" height="60" alt="c logo"/></a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/C_to_Wasm"><img src="https://github.com/MAXxDEVIL/asset/blob/main/C%2B%2B_icon.png" height="60" alt="cplusplus logo"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/C_to_Wasm"><img src="https://github.com/the-priyankaa/asset/blob/main/c%2B%2B.png" height="60" alt="cplusplus logo"/></a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python"><img src="https://github.com/MAXxDEVIL/asset/blob/main/python_icon.png" height="60" alt="python logo"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python"><img src="https://github.com/the-priyankaa/asset/blob/main/python.png" height="60" alt="python logo"/></a>
   <img width="12" />
  
 </div>
