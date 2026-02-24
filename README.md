@@ -11,7 +11,7 @@
 <h3 align="center" style="color:rgb(171,61,255)">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <img src="https://count.getloli.com/@MAXxDEVIL?theme=booru-lisu" />        
+  <img src="https://count.getloli.com/@Counter?name=Counter&theme=booru-qualityhentais&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />        
 </p>
 
 
