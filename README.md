@@ -6,7 +6,7 @@
 </p>
 
 
-<img src="https://github.com/the-priyankaa/asset/blob/main/bannar.jpeg" width = "100%" height = "200px"> <!-- Cover img-->
+<img src="https://github.com/the-priyankaa/asset/blob/main/ezgif.com-crop.gif" width = "100%" height = "200px"> <!-- Cover img-->
 
 <h3 align="center" style="color:rgb(171,61,255)">A passionate frontend developer from India</h3>
 
