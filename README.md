@@ -12,6 +12,11 @@
 ![](https://streak-stats.demolab.com/?user=the-priyankaa&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=the-priyankaa&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=the-priyankaa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -26,11 +31,6 @@
 
 <p align="center">
   <img src="https://count.getloli.com/@counteryyy?name=counteryyy&theme=booru-vp&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />        
-</p>
-
-## Commits
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 
