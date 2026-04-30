@@ -28,7 +28,7 @@
   <img src="https://count.getloli.com/@counteryyy?name=counteryyy&theme=booru-vp&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />        
 </p>
 
-
+## Commits
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
