@@ -42,7 +42,7 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github.com/the-priyankaa/asset/blob/main/2025-removebg-preview.png" height="100"/></td>
+    <td align="center"><img src="https://github.com/the-priyankaa/asset/blob/main/2025-removebg-preview.png" height="100" href="https://github.com/the-priyankaa/asset/blob/main/Youth%20Certificate.pdf"/></td>
     <td align="center"><img src="https://github.com/the-priyankaa/asset/blob/main/2026-removebg-preview.png" height="100"/></td>
     <td align="center"><img src="https://github.com/the-priyankaa/asset/blob/main/2027-removebg-preview.png" height="100"/></td>
     <td align="center"><img src="https://github.com/the-priyankaa/asset/blob/main/2028-removebg-preview.png" height="100"/></td>
