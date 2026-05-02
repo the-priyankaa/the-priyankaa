@@ -32,23 +32,30 @@
 
 
 
-
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 
+## 📜 Certificates 
 
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=the-priyankaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://github.com/the-priyankaa/asset/blob/main/2025-removebg-preview.png" height="100"/></td>
+    <td align="center"><img src="https://github.com/the-priyankaa/asset/blob/main/2026-removebg-preview.png" height="100"/></td>
+    <td align="center"><img src="https://github.com/the-priyankaa/asset/blob/main/2027-removebg-preview.png" height="100"/></td>
+    <td align="center"><img src="https://github.com/the-priyankaa/asset/blob/main/2028-removebg-preview.png" height="100"/></td>
+    <td align="center"><img src="https://github.com/the-priyankaa/asset/blob/main/2029-removebg-preview.png" height="100"/></td>
+    <td align="center"><img src="https://github.com/the-priyankaa/asset/blob/main/2030-removebg-preview.png" height="100"/></td>
+  </tr>
+ 
+</table>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Total Visitors
+## 👥 Total Visitors
 
 <p align="center">
   <img src="https://count.getloli.com/@counteryyy?name=counteryyy&theme=booru-vp&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />        
